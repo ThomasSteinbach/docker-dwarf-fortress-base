@@ -8,6 +8,6 @@ Run `docker run thomass/dwarf-fortress` and follow the instructions.
 
 By default config, savegames and movies are stored under "$HOME/dwarf-fortress"
 
-# use this image as base image
+## use this image as base image
 
 Mention that the folder `/df_linux/data/init` has moved to `/df_int` as the original directory is a volume.
